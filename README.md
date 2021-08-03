@@ -6,4 +6,4 @@ Aqui fiz uma requisição Json do uma api disponibilizada no curso da Udemy. Lin
 
 Através dessa api fiz a distribuição do conteúdo obtido com o map().
 
-<img src="https://s6.gifyu.com/images/React-Nutri.gif" width="900" height="500"/>
+<img src="https://media.giphy.com/media/YsDmrRGDJaVwZQxZW2/giphy.gif" width="900" height="500"/>
